@@ -1,0 +1,6 @@
+{
+  "name": "Biometric Voice & Face Recognition Engine",
+  "description": "Real-time biometric engine interface with live facial recognition scanner, voiceprint acoustic analyzer, and secure authentication dashboard.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
